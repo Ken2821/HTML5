@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "first",
+    "version": "1.0",
+
+    "description": "first sample",
+
+    
+    "browser_action": {
+        
+        "default_title": "first sample",
+        "default_popup": "popup.html"
+    }
+}
