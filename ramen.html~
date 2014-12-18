@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+<script src="timer.js" charset="UTF-8"></script>
+
+</head>
+<body>
+
+<form name="myForm">
+<div align="center">
+<strong>ƒ^ƒCƒ}[</strong><BR><BR>
+<select name="myMenu">
+<option value="180">ŽžŠÔ‚ð‘I‚ñ‚Å‚­‚¾‚³‚¢I </option>
+<option value="300">‚T•ª </option>
+<option value="195">‚R•ª‚P‚T•b </option>
+<option value="180">‚R•ª </option>
+<option value="165">‚Q•ª‚S‚T•b </option>
+<option value="150">‚Q•ª‚R‚O•b </option>
+<option value="120">‚Q•ª </option>
+<option value="60">‚P•ª </option>
+<option value="10">‚P‚O•b </option>
+
+<p><input type="button" value="Go" id="goButton" /></p>
+<BR><BR>
+<meta charset="UTF-8">
+<SPAN ID="countdown">ŽžŠÔ‚ð‘I‚ñ‚Å GO ‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢I</SPAN><BR><BR>
+<p><input type="button" value="•Â‚¶‚é" id="closeButton" /></p>
+</div>
+</form>
+</body>
+</html>

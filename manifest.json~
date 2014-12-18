@@ -1,18 +1,15 @@
 {
     "manifest_version": 2,
-    "name": "Ramen Timer",
+    "name": "first",
     "version": "1.0",
 
     "description": "first sample",
 
     "content_security_policy": "script-src 'self' 'unsafe-eval';  object-src 'self'",
 
-
-
     "browser_action": {
         
         "default_title": "first sample",
-        "default_popup": "popup.html",
-	"default_icon": "icon/ramen.png"
+        "default_popup": "popup.html"
     }
 }

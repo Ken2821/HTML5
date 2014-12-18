@@ -14,7 +14,7 @@ onload = function(){
 };
 
 function fooFunc(){
-    alert("OK");
+    alert("yea!!!");
 }
 
 
